@@ -1,4 +1,6 @@
 ---
+![Banner](https://github.com/simone7121/simone7121/blob/main/inbannerv1.png?raw=true)
+
 <h1 align="center">
 Hey, I'm <a href="https://www.simonedanna.it/" target="_blank" rel="noreferrer">Simone D'Anna</a> 👋
 </h1>
