@@ -20,7 +20,7 @@ Hey, I'm <a href="https://www.simonedanna.it/" target="_blank" rel="noreferrer">
 
 ### 💻 What I'm Working On
 - 🚀 Revamping my **Old projects**.
-- 📚 Pursuing my **University degree**.
+- 📚 Pursuing my University degree in **Ingegneria della Cybersicurezza (L08/L31)** at **Università Parthenope** .
 - ✍️ Developing my **Personal portfolio Website**.
 - 🎨 Mastering **CSS** for web styling excellence.
 
