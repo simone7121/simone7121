@@ -6,7 +6,7 @@ Hey, I'm <a href="https://www.simonedanna.it/" target="_blank" rel="noreferrer">
 </h1>
 
 <h2 align="center"> 
-  Full-Stack Developer 💻, Photographer 📸, and Radio Expert 📻!
+  Full-Stack Developer Student 💻, Photographer 📸, and Radio Expert 📻!
 </h2>
 
 ---
