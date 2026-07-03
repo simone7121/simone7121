@@ -80,7 +80,7 @@ Hey, I'm <a href="https://www.simonedanna.it/" target="_blank" rel="noreferrer">
 
 <div align="center">
   <a href="https://github.com/simone7121">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simone7121&show_icons=true&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-streak-stats-ruby.vercel.app/?user=simone7121&theme=highcontrast&hide_border=true&border_radius=4.5&locale=en&short_numbers=true&mode=weekly&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=Sun%2CSat&date_format=d+F%5B%2C+Y%5D)](https://www.simonedanna.it" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone7121&layout=compact&theme=radical&hide_border=true" />
   </a>
 </div>
