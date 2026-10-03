@@ -1,4 +1,3 @@
----
 
 ![Banner](https://github.com/simone7121/simone7121/blob/main/inbannerv1.png?raw=true)
 
@@ -13,8 +12,6 @@ Cybersecurity & Computer Engineering Student 🛡️ · IT & Networking 🌐 · 
 <p align="center">
 I like building, breaking, understanding and improving things — from software and networks to embedded systems, radio studios and homelab infrastructure.
 </p>
-
----
 
 ### 👨‍💻 About Me
 
